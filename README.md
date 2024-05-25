@@ -1,9 +1,7 @@
 https://oshwhub.com/jie326513988/esp32c3-154-ink-screen-multi-function
 # 项目说明
 
-
-
-
+![输入图片说明](%E5%9B%BE%E7%89%87/%E7%88%86%E7%82%B8.jpg)
 
 - epub阅读、txt阅读、midi音乐、闹钟、时钟、表盘、天气、配网、设置、文件管理器
 - 由ESP32MP3墨水屏阅读器精简而来，只阉割了MP3音频
@@ -45,7 +43,8 @@ https://oshwhub.com/jie326513988/esp32c3-154-ink-screen-multi-function
 
 
 # 烧录说明
-
+![输入图片说明](%E5%9B%BE%E7%89%87/%E7%83%A7%E5%BD%95.png)
+![输入图片说明](%E5%9B%BE%E7%89%87/%E7%83%A7%E5%BD%95.jpg)
 空片上电会一直断开连接不用理会，直接烧录即可
 
 注意，由于win7系统不自带winusb驱动，请升级至win8以上系统，或前往乐鑫原厂手册安装驱动
@@ -64,7 +63,7 @@ https://oshwhub.com/jie326513988/esp32c3-154-ink-screen-multi-function
 
 
 # 项目相关功能
-
+![输入图片说明](%E5%9B%BE%E7%89%87/%E5%AE%9E%E7%89%A9%20(1).jpg)
 1.54寸各款墨水屏主要功能对比
 
 MCU	ESP8266（单核，160MHz）	ESP32（双核，240MHz）	
@@ -192,6 +191,6 @@ TF卡使用mos管控制开关，休眠时关闭，节省电量
 长按按键4：确认
 
 
-
-
 # 实物展示
+![输入图片说明](%E5%9B%BE%E7%89%87/%E5%AE%9E%E7%89%A9%20(2).jpg)
+![输入图片说明](%E5%9B%BE%E7%89%87/%E5%AE%9E%E7%89%A9%20(3).jpg)
