@@ -1,6 +1,9 @@
-最新固件有未无法激活BUG，一会更新
-
-全新的EPUB算法和加入大量繁体字
+ **2025-05-01<br>** 
+1.已修复无法激活BUG<br>
+2.全新的EPUB算法，兼容性更高，换章更快，彻底解决换章混乱BUG<br>
+3.加入大量繁体字<br>
+4.加入简洁版键盘<br>
+5.加入自定义按键<br>
 
 硬件地址
 https://oshwhub.com/jie326513988/esp32c3-154-ink-screen-multi-function
