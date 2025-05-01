@@ -1,3 +1,5 @@
+最新固件有未无法激活BUG，一会更新
+全新的EPUB算法和加入大量繁体字
 https://oshwhub.com/jie326513988/esp32c3-154-ink-screen-multi-function
 # 项目说明
 
