@@ -4,6 +4,10 @@
 3.加入大量繁体字<br>
 4.加入简洁版键盘<br>
 5.加入自定义按键<br>
+<br>
+ **2025-05-11<br>** 
+1.优化EPUB<br>
+2.修复字体设置BUG
 
 硬件地址
 https://oshwhub.com/jie326513988/esp32c3-154-ink-screen-multi-function
